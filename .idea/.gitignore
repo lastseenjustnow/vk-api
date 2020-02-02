@@ -1,0 +1,5 @@
+
+# Default ignored files
+/workspace.xml
+# You'd better not upload your access token somewhere :)
+access_token.*
